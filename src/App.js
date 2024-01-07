@@ -1,4 +1,4 @@
-import plakat from "./Plakat_SaM-2020.jpg";
+import plakat from "./6108e353f9714b68e544a01803778ea8.jpg";
 import "./App.css";
 import Dictionary from "./Dictionary";
 
