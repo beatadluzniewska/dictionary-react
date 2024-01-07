@@ -14,6 +14,7 @@ function App() {
                     />
                 </header>
                 <main>
+                    <h2>Search for a definition:</h2>
                     <Dictionary />
                 </main>
                 <footer className="App-footer">
